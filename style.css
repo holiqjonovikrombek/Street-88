@@ -1,0 +1,120 @@
+body{
+    background-image: url(./food-burger-wallpaper-preview\ 1.jpg);
+    width: 100%;
+    height:700px;
+/* Top:124px;    */
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar-title{
+    color: white;
+    margin-left: 263px;
+    
+}
+.navbar-links{
+    text-decoration: none;
+    color: white;
+    gap: 60px;
+    margin-right: 40px;
+}
+.navbar{
+    background-color:  #0C0C0C;
+    display: flex   ;
+}
+.img{
+    margin-left: 263px;
+
+
+}
+.bolshoy{
+    width: 100px;
+height: 1000px;
+margin-top: 291px;
+margin-left: 245px;
+
+}
+.h1{
+    color: #69CF17;
+font-size: 100px;
+}
+h3{
+color: #69CF17;
+}.p{
+    width: 1110px;
+height: 72px;
+flex-shrink: 0;
+color: white;
+}
+.img2{
+    display: flex;
+    
+}
+.img3{
+margin-left: 600px;
+}
+.navbar2{
+    height: 65px;
+    background: #292929;
+box-shadow: 0px 1px 8px 0px rgba(17, 17, 17, 0.30);
+}
+.navbar3{
+    background: #292929;
+box-shadow: 0px 1px 8px 0px rgba(17, 17, 17, 0.30);
+
+text-decoration: none;
+}
+.navbar-title{
+text-decoration: none;
+justify-content: space-between;
+}
+.img5{
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+}
+.img6{
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+}
+.salom{
+    width: 100%;
+    gap: 20px;
+}
+.map{
+ width: 100%;
+}
+.img10{
+    width: 100%;
+}
+.ota{
+    background-color: #0C0C0C;
+}
+.burger{
+    width: 60%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
